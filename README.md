@@ -58,3 +58,11 @@ python auto_redeem.py
 
 - `.env` 已加入 `.gitignore`，私鑰不會上傳至 GitHub
 - 執行後 Chrome 視窗會保持開啟
+
+## 更換捷徑 Icon
+
+1. 打開 macOS **捷徑** app
+2. 對捷徑按右鍵 → **編輯**
+3. 點選捷徑名稱旁邊的圖示
+4. 選擇**從檔案選擇**，選取 `icon.png`
+5. 按**完成**
